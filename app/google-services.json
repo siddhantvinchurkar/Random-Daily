@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "387970927384",
+    "firebase_url": "https://random-daily.firebaseio.com",
+    "project_id": "random-daily",
+    "storage_bucket": "random-daily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387970927384:android:8eb8493717430144",
+        "android_client_info": {
+          "package_name": "com.volatile.randomdaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387970927384-ekv64augboops2acapgoki972rc9phkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMy4-4Vu7Gej9p67_Owth2g7HO3hZcXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

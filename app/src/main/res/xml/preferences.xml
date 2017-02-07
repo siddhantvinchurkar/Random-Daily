@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="About Random Daily"
+        android:enabled="true">
+
+        <Preference
+            android:title="@string/preference_title_more"
+            android:summary="@string/preference_summary_more"
+            android:icon="@mipmap/more">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/store/apps/developer?id=Volatile%2C%20Inc.&amp;hl=en" />
+        </Preference>
+
+        <Preference
+            android:title="@string/preference_title_version"
+            android:summary="@string/preference_summary_version"
+            android:icon="@mipmap/version">
+        </Preference>
+
+        <Preference
+            android:title="@string/preference_title_privacy_policy"
+            android:summary="@string/preference_summary_privacy_policy"
+            android:icon="@mipmap/privacy_policy">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://marv.comxa.com/random-daily/privacy-policy.pdf" />
+        </Preference>
+
+        <Preference
+            android:title="@string/preference_title_licence"
+            android:summary="@string/preference_summary_licence"
+            android:icon="@mipmap/licence">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://marv.comxa.com/LICENSE.nfo" />
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

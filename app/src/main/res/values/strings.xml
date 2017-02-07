@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Random Daily</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_more">More</string>
+    <string name="action_share">Share</string>
+
+
+    <string name="process_load">Loading...</string>
+    <string name="process_wait">Please wait...</string>
+
+
+    <string name="error_content_load">Error fetching content. Please try again later.</string>
+
+
+    <string name="information_title_welcome">Welcome to\nRandom Daily</string>
+    <string name="information_title_root">Your device\nis rooted</string>
+    <string name="information_title_intro">Random stuff\neveryday</string>
+
+    <string name="information_description_welcome">Say hello to your\nshiny new friend</string>
+    <string name="information_description_root">Enjoy a complimentary\nad-free version\njust because</string>
+    <string name="information_description_intro">Get Random stuff from\nthe internet everyday</string>
+
+    <string name="preference_title_version">Version</string>
+    <string name="preference_title_more">More Apps</string>
+    <string name="preference_title_privacy_policy">Privacy Policy</string>
+    <string name="preference_title_licence">Open Source Licence</string>
+
+    <string name="preference_summary_version">Random Daily 1.0</string>
+    <string name="preference_summary_more">Try other apps by Volatile, Inc.</string>
+    <string name="preference_summary_privacy_policy">View Random Daily\'s Privacy Policy</string>
+    <string name="preference_summary_licence">Random Daily is licenced under the Apache Licence, Version 2.0, January 2004. Tap here to view the licence</string>
+
+
+    <string name="banner_test_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_test_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-5111839041604013/3098936489</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-5111839041604013/4436068885</string>
+
+</resources>
